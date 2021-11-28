@@ -1,0 +1,5 @@
+C:\Users\iasmin.borges\source\repos\alura\WindowsForms\CursoWindowsForms_2\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.dll
+C:\Users\iasmin.borges\source\repos\alura\WindowsForms\CursoWindowsForms_2\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.pdb
+C:\Users\iasmin.borges\source\repos\alura\WindowsForms\CursoWindowsForms_2\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\iasmin.borges\source\repos\alura\WindowsForms\CursoWindowsForms_2\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.dll
+C:\Users\iasmin.borges\source\repos\alura\WindowsForms\CursoWindowsForms_2\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.pdb
