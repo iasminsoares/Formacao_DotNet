@@ -1,0 +1,16 @@
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.exe
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.deps.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.runtimeconfig.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.runtimeconfig.dev.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\ref\missao_principal.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\bin\Debug\net5.0\missao_principal.pdb
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.csprojAssemblyReference.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.AssemblyInfoInputs.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.AssemblyInfo.cs
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.csproj.CoreCompileInputs.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\ref\missao_principal.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.pdb
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\missao_principal\obj\Debug\net5.0\missao_principal.genruntimeconfig.cache

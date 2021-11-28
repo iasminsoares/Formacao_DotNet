@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "leitura_escrita_arquivo/1.0.0": {
+        "runtime": {
+          "leitura_escrita_arquivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leitura_escrita_arquivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

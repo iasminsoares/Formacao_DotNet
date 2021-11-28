@@ -1,0 +1,16 @@
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.csprojAssemblyReference.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.AssemblyInfoInputs.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.AssemblyInfo.cs
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.exe
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.deps.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.runtimeconfig.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.runtimeconfig.dev.json
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\ref\leitura_escrita_arquivo.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\bin\Debug\net5.0\leitura_escrita_arquivo.pdb
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\ref\leitura_escrita_arquivo.dll
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.pdb
+C:\Users\Nadirlene Oliveira\OneDrive\Documentos\Meusprojetos\HMB-teste\leitura_escrita_arquivo\obj\Debug\net5.0\leitura_escrita_arquivo.genruntimeconfig.cache
