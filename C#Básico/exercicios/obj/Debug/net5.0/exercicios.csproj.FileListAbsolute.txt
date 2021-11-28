@@ -1,0 +1,16 @@
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.AssemblyInfo.cs
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.exe
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.deps.json
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.runtimeconfig.json
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.runtimeconfig.dev.json
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\ref\exercicios.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\bin\Debug\net5.0\exercicios.pdb
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\ref\exercicios.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.pdb
+C:\Users\iasmi\OneDrive\Documentos\GitHub\courses\C#Básico\exercicios\obj\Debug\net5.0\exercicios.genruntimeconfig.cache

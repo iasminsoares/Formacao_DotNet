@@ -1,0 +1,13 @@
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.exe
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.deps.json
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.runtimeconfig.json
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.runtimeconfig.dev.json
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.dll
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\bin\Debug\netcoreapp3.1\5-CaracteresETexto.pdb
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.csprojAssemblyReference.cache
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.AssemblyInfoInputs.cache
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.AssemblyInfo.cs
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.dll
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.pdb
+C:\Users\iasmin.borges\source\repos\alura\5-CaracteresETexto\obj\Debug\netcoreapp3.1\5-CaracteresETexto.genruntimeconfig.cache

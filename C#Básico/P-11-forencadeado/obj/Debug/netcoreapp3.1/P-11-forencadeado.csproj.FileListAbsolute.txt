@@ -1,0 +1,13 @@
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.exe
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.deps.json
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.runtimeconfig.json
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.runtimeconfig.dev.json
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.dll
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\bin\Debug\netcoreapp3.1\P-11-forencadeado.pdb
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.csprojAssemblyReference.cache
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.AssemblyInfoInputs.cache
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.AssemblyInfo.cs
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.csproj.CoreCompileInputs.cache
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.dll
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.pdb
+C:\Users\iasmin.borges\source\repos\alura\P-11-forencadeado\obj\Debug\netcoreapp3.1\P-11-forencadeado.genruntimeconfig.cache
