@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PytZVmtDXPf/WX+Um4h9TrnzNwIwW4dPOnyvbfXCqf9RBkzOWczg7u73I4JDz9DYHpdp8vs2j7WRMjYrdJxIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iasmi\\OneDrive\\Documentos\\GitHub\\Formacao_DOTNET\\Part1_C#Básico\\5-CaracteresETexto\\5-CaracteresETexto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

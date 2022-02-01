@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBBlGkXLPEogujz3Pj5XDM9utG7FX+q9tba5I3cct0Qxn6bKYTAkwh3g4mp6b2quEvp+25eSGYTaX+81cWoNBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iasmi\\OneDrive\\Documentos\\GitHub\\Formacao_DOTNET\\Part1_C#Básico\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\iasmi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

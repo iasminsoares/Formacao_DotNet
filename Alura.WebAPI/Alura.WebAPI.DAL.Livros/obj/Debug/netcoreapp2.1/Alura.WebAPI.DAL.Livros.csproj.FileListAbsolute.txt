@@ -1,0 +1,13 @@
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.AssemblyReference.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\iasmi\OneDrive\Documentos\GitHub\Formacao_DOTNET\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb

@@ -1,0 +1,23 @@
+
+Nós formalizamos nosso conhecimento e começamos a criar bibliotecas bastante robustas, inclusive com documentação. Durante o curso, vimos como utilizar o argumento /// (três barras), 
+usado exclusivamente para documentação do C#. Apresentamos a tag <summary>, que é um resumo do método ou da classe criada.
+
+Conhecemos a tag <param> que faz uma referência para o parâmetro de um método ou construtor. Além deste, usamos <see> para referenciar um membro da classe, seguido do atributo cref.
+
+Vimos também que para fazer referência para um argumento, o processo é um pouco diferente: no caso, o elemento apropriado é o <paramref>, uma referência do parâmetro do membro que estamos 
+documentando.
+
+Explicamos também como funciona a compilação de um executável e de uma biblioteca, descobrindo que esta gera um arquivo DLL. Se analisarmos o conteúdo de ByteBank.Modelos > Bin > bin > Debug, 
+encontraremos um dll. Nós percebemos que, se quisermos documentar e gerar um arquivo de documentação a partir do que foi escrito, teremos que acessar as opções de documentação do projeto e marcar 
+a opção "Arquivo de documentação XML".
+
+A partir desta configuração, tanto a IDE como outros editores, poderão olhar a documentação do código por meio do XML (o mesmo usado pelo .NETFramework). É o mesmo formato usado para montar os 
+tipos da Microsoft no VS.
+
+Aprendemos a criar DLL e referência-las, assim como documentar. Notamos que não é viável enviar DLLs de uma pessoa para outra, ou manter uma grande equipe de desenvolvimento com dependências de 
+DLLs de bibliotecas externas, pois pode ser bastante trabalhoso.
+
+Por isso, mostramos como trabalhar com o repositório NuGet. Trata-se de uma galeria de pacotes, com o qual podemos fazer o download de pacotes e recuperá-los quando não existirem e forem 
+essenciais para o funcionamento da aplicação. Fizemos isso usando a biblioteca Humanize, a partir desta conseguimos usar o DateTime e TimeSpan de forma mais legível para as pessoas.
+
+Nós aprendemos muita coisa, formalizamos o conhecimento e entendemos como é o funcionamento no .NETFramework. E reproduzimos tudo isso no código.

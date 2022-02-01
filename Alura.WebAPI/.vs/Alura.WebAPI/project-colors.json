@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ea2d4e0-1b65-4b65-8a66-1eeae9063f81": {
+      "ProjectGuid": "3ea2d4e0-1b65-4b65-8a66-1eeae9063f81",
+      "DisplayName": "Alura.WebAPI.WebApp",
+      "ColorIndex": 0
+    },
+    "8980974a-1b85-4bdb-a1d0-0ccb5f709037": {
+      "ProjectGuid": "8980974a-1b85-4bdb-a1d0-0ccb5f709037",
+      "DisplayName": "Alura.WebAPI.DAL.Livros",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
