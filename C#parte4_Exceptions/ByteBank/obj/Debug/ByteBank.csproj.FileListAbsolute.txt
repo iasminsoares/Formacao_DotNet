@@ -1,7 +1,0 @@
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\bin\Debug\ByteBank.exe.config
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\bin\Debug\ByteBank.exe
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\bin\Debug\ByteBank.pdb
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\obj\Debug\ByteBank.exe
-C:\Users\iasmin.borges\source\repos\alura\Part4_Exceptions\ByteBank\obj\Debug\ByteBank.pdb

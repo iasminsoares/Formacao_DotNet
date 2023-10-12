@@ -1,28 +1,35 @@
 ﻿using System;
-
-namespace P10_CalculaPoupanca
+class Programa
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        Console.WriteLine("Executando o projeto 10 - Calcula Poupança");
+
+        double investimento = 1000;
+
+        // rendimento de 0.5% (0.005) ao mês
+
+        //mês 1
+        //investimento = investimento + investimento * 0.005;
+        //mês 2 
+        //investimento = investimento + investimento * 0.005;
+        //mês 3
+        //investimento = investimento + investimento * 0.005;
+
+        //Console.WriteLine(investimento);
+
+        int mes = 1;
+
+        while (mes <= 12)
         {
-            Console.WriteLine("Executando projeto 10 - Calcular Poupança");
+            investimento = investimento + investimento * 0.005;
+            Console.WriteLine("No mês " + mes + " você tem R$ " + investimento);
 
-            //0.36% = 0.0036
-            double valorInvestido = 1000;
-            int contadorMes = 1;
-
-            while (contadorMes <= 12)
-            {
-                valorInvestido = valorInvestido + valorInvestido * 0.0036;
-                Console.WriteLine("Após " + contadorMes + "  mês, você terá: R$" + valorInvestido);
-
-                //contadorMes = contadorMes + 1;
-                //contadorMes += 1;
-                contadorMes++;
-            }
-
-            Console.ReadLine();
+            //mes = mes + 1;
+            mes += 1;
         }
+
+        Console.WriteLine("Tecle enter para fechar ...");
+        Console.ReadLine();
     }
 }

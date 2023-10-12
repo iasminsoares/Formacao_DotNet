@@ -1,31 +1,26 @@
 ﻿using System;
-
-namespace _3_CriandoVariaveisPontoFlutuante
+class Programa
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Executando projeto 3 - Criando variáveis de ponto flutuante");
+        Console.WriteLine("Projeto 3 - Variáveis Ponto Flutuante");
 
-            double salario;
-            salario = 1450.70;
-            Console.WriteLine(salario);
+        double salario;
+        salario = 3000.10;
 
-            double idade;
-            idade = 15 / 2.0;
-            Console.WriteLine(idade);
+        salario = 3000;
 
-            idade = 5 / 3;
-            Console.WriteLine("5 / 3 = " + idade);
+        double idade;
 
-            idade = 5.0 / 3;
-            Console.WriteLine("5.0 / 3 = " + idade);
+        idade = 7.0 / 5;
 
-            Console.WriteLine("Execução finalizada. Tecle enter para sair....");
-            Console.ReadLine();
+        Console.WriteLine(idade);
 
 
-        }
+        Console.WriteLine(salario);
+
+        Console.WriteLine("Tecle enter para fechar...");
+        Console.ReadLine();
+
     }
 }

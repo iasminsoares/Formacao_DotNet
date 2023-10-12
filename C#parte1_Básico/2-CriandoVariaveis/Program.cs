@@ -1,23 +1,30 @@
 ﻿using System;
-
-namespace _2_CriandoVariaveis
+class Programa
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            int idade;
-            idade = 32;
+        Console.WriteLine("Projeto 2 - Criando Variáveis");
 
-            idade = 10 + 5 * 2;
-            Console.WriteLine(idade);
+        int idade;
 
-            idade = (10 + 5) * 2;
-            Console.WriteLine("Sua idade é: " + idade);
+        idade = 27;
 
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Execução finalizada. Tecle enter para sair....");
-            Console.ReadLine();
-        }
+        Console.WriteLine("Minha idade é " + idade);
+
+        idade = 27 - 5;
+
+        Console.WriteLine(idade);
+
+        idade = 5 * 2 - 6;
+
+        Console.WriteLine(idade);
+
+        idade = (5 - 2) * 3;
+
+        Console.WriteLine(idade);
+
+        Console.WriteLine("Tecle enter para fechar...");
+        Console.ReadLine();
+
     }
 }
